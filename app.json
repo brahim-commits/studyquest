@@ -1,0 +1,2 @@
+{ "expo": { "name": "StudyQuest", "slug": "studyquest", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "dark",
+  "android": { "package": "com.studyquest.app" }, "ios": { "bundleIdentifier": "com.studyquest.app" } } }
